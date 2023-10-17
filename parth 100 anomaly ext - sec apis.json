@@ -1084,27 +1084,5 @@
         }
       }
     }
-  ],
-  "meta": {
-    "pagination": {
-      "pages": 1,
-      "offset": 0,
-      "last": 0,
-      "limit": 100,
-      "count": 60,
-      "page": 0,
-      "first": 0
-    }
-  },
-  "links": {
-    "last": {
-      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
-    },
-    "self": {
-      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
-    },
-    "first": {
-      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
-    }
-  }
+  ]
 }
