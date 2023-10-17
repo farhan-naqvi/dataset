@@ -1,0 +1,1110 @@
+{
+  "data": [
+    {
+      "type": "anomalyExtension",
+      "id": "34CA4542-55CF-11EE-BAD9-93E6E96364BA",
+      "attributes": {
+        "createdDateTime": "2023-09-18T02:58:12.00Z",
+        "description": "Backup failed for job ID: 197 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 197 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "7F5BF696-5566-11EE-BC41-D49D3E2D0D54",
+      "attributes": {
+        "createdDateTime": "2023-09-17T14:28:40.00Z",
+        "description": "Backup failed for job ID: 195 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 195 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "4DF5B788-5500-11EE-9826-BA70A509D96C",
+      "attributes": {
+        "createdDateTime": "2023-09-17T02:17:09.00Z",
+        "description": "Backup failed for job ID: 192 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 192 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "9AD1B02A-5497-11EE-A049-52037B4AA502",
+      "attributes": {
+        "createdDateTime": "2023-09-16T13:47:40.00Z",
+        "description": "Backup failed for job ID: 187 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 187 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "C58DED74-542E-11EE-99DD-C460C74E6781",
+      "attributes": {
+        "createdDateTime": "2023-09-16T01:17:15.00Z",
+        "description": "Backup failed for job ID: 185 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 185 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "EF26FCE8-53C5-11EE-BD46-4E57FA1E1EF9",
+      "attributes": {
+        "createdDateTime": "2023-09-15T12:46:48.00Z",
+        "description": "Backup failed for job ID: 182 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 182 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "3E827BC8-535D-11EE-9616-F1B2F966E5CA",
+      "attributes": {
+        "createdDateTime": "2023-09-15T00:17:24.00Z",
+        "description": "Backup failed for job ID: 180 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 180 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "62C6910E-52F4-11EE-9257-330427490E75",
+      "attributes": {
+        "createdDateTime": "2023-09-14T11:46:47.00Z",
+        "description": "Backup failed for job ID: 177 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 177 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "AA605040-528B-11EE-A0CE-B87DE025D9E6",
+      "attributes": {
+        "createdDateTime": "2023-09-13T23:17:10.00Z",
+        "description": "Backup failed for job ID: 175 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 175 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "CEDD91E4-5222-11EE-8EFD-47336210F86C",
+      "attributes": {
+        "createdDateTime": "2023-09-13T10:46:34.00Z",
+        "description": "Backup failed for job ID: 172 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 172 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "1EB0ECCA-51BA-11EE-A19C-634A1D2F70AD",
+      "attributes": {
+        "createdDateTime": "2023-09-12T22:17:11.00Z",
+        "description": "Backup failed for job ID: 170 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 170 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "4637BAB2-5151-11EE-B195-DF68270905D7",
+      "attributes": {
+        "createdDateTime": "2023-09-12T09:46:40.00Z",
+        "description": "Backup failed for job ID: 168 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 168 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "36BA5772-50EB-11EE-975D-64DFC65A7BDB",
+      "attributes": {
+        "createdDateTime": "2023-09-11T21:36:06.00Z",
+        "description": "Backup failed for job ID: 165 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 165 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "61E55438-5082-11EE-9ED2-1909C91A355F",
+      "attributes": {
+        "createdDateTime": "2023-09-11T09:05:41.00Z",
+        "description": "Backup failed for job ID: 163 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 163 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "A1898EF8-507B-11EE-80EF-E8EF6773C89A",
+      "attributes": {
+        "createdDateTime": "2023-09-11T08:17:21.00Z",
+        "description": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Multiple policies deletions/ deactivated by user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-09-11T08:07:21.000Z",
+          "reportToDate": "2023-09-11T08:17:21.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "AE5DD6DC-5019-11EE-A634-DFCEDB7F14E2",
+      "attributes": {
+        "createdDateTime": "2023-09-10T20:36:12.00Z",
+        "description": "Backup failed for job ID: 129 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 129 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "D73B0A52-4FB0-11EE-920E-00843765CC26",
+      "attributes": {
+        "createdDateTime": "2023-09-10T08:05:43.00Z",
+        "description": "Backup failed for job ID: 127 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 127 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "C9808826-4F4A-11EE-A23E-83A0DF41684F",
+      "attributes": {
+        "createdDateTime": "2023-09-09T19:55:12.00Z",
+        "description": "Backup failed for job ID: 124 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 124 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "F69C048E-4EE1-11EE-B3C4-271BDE1E8015",
+      "attributes": {
+        "createdDateTime": "2023-09-09T07:24:50.00Z",
+        "description": "Backup failed for job ID: 119 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 119 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "1E3DB398-4E79-11EE-92FC-67F96E61E2DE",
+      "attributes": {
+        "createdDateTime": "2023-09-08T18:54:20.00Z",
+        "description": "Backup failed for job ID: 116 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 116 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "6CEEED2C-4E10-11EE-855F-EC28A020BE60",
+      "attributes": {
+        "createdDateTime": "2023-09-08T06:24:54.00Z",
+        "description": "Backup failed for job ID: 114 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 114 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "9785E61C-4DA7-11EE-AB50-539F377061B2",
+      "attributes": {
+        "createdDateTime": "2023-09-07T17:54:29.00Z",
+        "description": "Backup failed for job ID: 111 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 111 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "C31D6606-4D3E-11EE-A6C7-A8124C7B08A1",
+      "attributes": {
+        "createdDateTime": "2023-09-07T05:24:05.00Z",
+        "description": "Backup failed for job ID: 109 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 109 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "12128DEA-4CD6-11EE-AA17-6E4642067EAB",
+      "attributes": {
+        "createdDateTime": "2023-09-06T16:54:40.00Z",
+        "description": "Backup failed for job ID: 106 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 106 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "3B196D26-4C6D-11EE-A610-40E3F323D6F3",
+      "attributes": {
+        "createdDateTime": "2023-09-06T04:24:12.00Z",
+        "description": "Backup failed for job ID: 104 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 104 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "8882B086-4C04-11EE-853C-E228306E8DA1",
+      "attributes": {
+        "createdDateTime": "2023-09-05T15:54:44.00Z",
+        "description": "Backup failed for job ID: 101 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 101 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "B1CD2FAC-4B9B-11EE-BB62-97FAC14A974A",
+      "attributes": {
+        "createdDateTime": "2023-09-05T03:24:17.00Z",
+        "description": "Backup failed for job ID: 99 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 99 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "DC7D51DC-4B32-11EE-9613-C59FD7031A56",
+      "attributes": {
+        "createdDateTime": "2023-09-04T14:53:51.00Z",
+        "description": "Backup failed for job ID: 96 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 96 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "28FCD8E8-4ACA-11EE-B832-9F10446328F8",
+      "attributes": {
+        "createdDateTime": "2023-09-04T02:24:22.00Z",
+        "description": "Backup failed for job ID: 94 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 94 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "511D9D58-4A61-11EE-B547-0C3B056FBE7C",
+      "attributes": {
+        "createdDateTime": "2023-09-03T13:53:52.00Z",
+        "description": "Backup failed for job ID: 92 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 92 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "441B011A-49FB-11EE-8D27-C087E20268BF",
+      "attributes": {
+        "createdDateTime": "2023-09-03T01:43:22.00Z",
+        "description": "Backup failed for job ID: 89 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 89 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "6AB09C5E-4992-11EE-BFD5-1ED4A166A682",
+      "attributes": {
+        "createdDateTime": "2023-09-02T13:12:49.00Z",
+        "description": "Backup failed for job ID: 84 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 84 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "B703D922-4929-11EE-B307-92FA7253BE8C",
+      "attributes": {
+        "createdDateTime": "2023-09-02T00:43:20.00Z",
+        "description": "Backup failed for job ID: 82 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 82 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "E1D43E1C-48C0-11EE-BC6C-0C33271FE214",
+      "attributes": {
+        "createdDateTime": "2023-09-01T12:12:55.00Z",
+        "description": "Backup failed for job ID: 79 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 79 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "30264F9C-4858-11EE-9021-EE1B8D483DB2",
+      "attributes": {
+        "createdDateTime": "2023-08-31T23:43:29.00Z",
+        "description": "Backup failed for job ID: 77 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 77 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "5A68701E-47EF-11EE-B391-3442893DFED2",
+      "attributes": {
+        "createdDateTime": "2023-08-31T11:13:03.00Z",
+        "description": "Backup failed for job ID: 74 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 74 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "80B18C4C-4786-11EE-B9F7-822E610748CA",
+      "attributes": {
+        "createdDateTime": "2023-08-30T22:42:30.00Z",
+        "description": "Backup failed for job ID: 72 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 72 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "CAE5FB54-471D-11EE-884A-B35E101548BB",
+      "attributes": {
+        "createdDateTime": "2023-08-30T10:12:57.00Z",
+        "description": "Backup failed for job ID: 69 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 69 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "11809920-46B5-11EE-BAF8-3912B9254076",
+      "attributes": {
+        "createdDateTime": "2023-08-29T21:43:19.00Z",
+        "description": "Backup failed for job ID: 67 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 67 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "3FD39264-464C-11EE-A642-8EBDF45B8384",
+      "attributes": {
+        "createdDateTime": "2023-08-29T09:12:59.00Z",
+        "description": "Backup failed for job ID: 64 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 64 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "660EF3A6-45E3-11EE-B874-D9716C31A57A",
+      "attributes": {
+        "createdDateTime": "2023-08-28T20:42:26.00Z",
+        "description": "Backup failed for job ID: 62 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 62 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "B261BB58-457A-11EE-8B7A-4186431248E5",
+      "attributes": {
+        "createdDateTime": "2023-08-28T08:12:57.00Z",
+        "description": "Backup failed for job ID: 59 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 59 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "DC04462E-4511-11EE-9265-7302CF70EA5D",
+      "attributes": {
+        "createdDateTime": "2023-08-27T19:42:30.00Z",
+        "description": "Backup failed for job ID: 57 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 57 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "288F15FA-44A9-11EE-A0D2-E7523C5274FB",
+      "attributes": {
+        "createdDateTime": "2023-08-27T07:13:01.00Z",
+        "description": "Backup failed for job ID: 55 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 55 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "F7D32462-4442-11EE-AB01-3FD02C2CDF35",
+      "attributes": {
+        "createdDateTime": "2023-08-26T19:01:31.00Z",
+        "description": "Backup failed for job ID: 52 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 52 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "67A395AC-4311-11EE-BCE9-D6241B53810A",
+      "attributes": {
+        "createdDateTime": "2023-08-25T06:34:12.00Z",
+        "description": "Backup failed for job ID: 44 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 44 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "49BD46CC-42A4-11EE-814D-EB6D6F2A51A5",
+      "attributes": {
+        "createdDateTime": "2023-08-24T17:33:07.00Z",
+        "description": "Detects if certificate gets revoked in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Certificate revoked by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if certificate gets revoked in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T16:33:07.000Z",
+          "reportToDate": "2023-08-24T17:33:07.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "E3FB189C-42A2-11EE-AA44-E451F3754212",
+      "attributes": {
+        "createdDateTime": "2023-08-24T17:23:07.00Z",
+        "description": "Detects if certificate gets revoked in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Certificate revoked by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if certificate gets revoked in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T16:23:07.000Z",
+          "reportToDate": "2023-08-24T17:23:07.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "E3E82F84-42A2-11EE-9700-5E276F290B83",
+      "attributes": {
+        "createdDateTime": "2023-08-24T17:23:07.00Z",
+        "description": "Detects if the disk pool was made down by the user in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Disk was made down by user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if the disk pool was made down by the user in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T17:13:06.000Z",
+          "reportToDate": "2023-08-24T17:23:06.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "7E2C870E-42A1-11EE-929A-4178A45A65FC",
+      "attributes": {
+        "createdDateTime": "2023-08-24T17:13:06.00Z",
+        "description": "Detects if multiple policies of type cloud DB cloud policy type PAAS gets deleted in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "deleted BigData/DataStore ",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if multiple policies of type cloud DB cloud policy type PAAS gets deleted in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T17:03:06.000Z",
+          "reportToDate": "2023-08-24T17:13:06.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "7E2F8B02-42A1-11EE-A21D-22CAA31B85D5",
+      "attributes": {
+        "createdDateTime": "2023-08-24T17:13:06.00Z",
+        "description": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Multiple policies deletions/ deactivated by user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T17:03:06.000Z",
+          "reportToDate": "2023-08-24T17:13:06.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "B2C3C23C-429E-11EE-A300-F05EE5041DD0",
+      "attributes": {
+        "createdDateTime": "2023-08-24T16:53:06.00Z",
+        "description": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Multiple policies deletions/ deactivated by user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if multiple policies gets deleted/ deactivated in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-24T16:43:06.000Z",
+          "reportToDate": "2023-08-24T16:53:06.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "28349CDC-40C2-11EE-B483-FA148706983D",
+      "attributes": {
+        "createdDateTime": "2023-08-22T08:01:53.00Z",
+        "description": "Detects if token gets deleted in given time frame.",
+        "anomalyStatus": "IGNORED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Token Deleted by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if token gets deleted in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-22T07:01:53.000Z",
+          "reportToDate": "2023-08-22T08:01:53.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "C27EAB54-40C0-11EE-9837-72AC98208DFF",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:51:53.00Z",
+        "description": "Detects if token gets deleted in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Token Deleted by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if token gets deleted in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-22T06:51:53.000Z",
+          "reportToDate": "2023-08-22T07:51:53.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "5CC1142E-40BF-11EE-81BA-24CBFA39F617",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:41:53.00Z",
+        "description": "Detects if token gets deleted in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Token Deleted by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if token gets deleted in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-22T06:41:53.000Z",
+          "reportToDate": "2023-08-22T07:41:53.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "F724A17C-40BD-11EE-9BFF-4883116A45EB",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:31:53.00Z",
+        "description": "Detects if token gets deleted in given time frame.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "RULE_BASED",
+        "anomalyTypeDisplayName": "Token Deleted by the user",
+        "anomalySeverity": "MEDIUM",
+        "extendedAttributes": {
+          "additionalNote": "Detects if token gets deleted in given time frame.",
+          "isFalsePositiveRequired": false,
+          "reportFromDate": "2023-08-22T06:31:53.000Z",
+          "reportToDate": "2023-08-22T07:31:53.000Z"
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "848A258A-40BB-11EE-B3C5-11DAD30C4F44",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:14:22.00Z",
+        "description": "Backup failed for job ID: 12 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+        "anomalyStatus": "NOT_REVIEWED",
+        "anomalyType": "CLIENT_OFFLINE",
+        "anomalyTypeDisplayName": "Client Offline Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Client": "ucs220m6-01v09.vxindia.veritas.com",
+          "Details": "Backup failed for job ID: 12 with status '7647' as the client certificates are corrupted, possibly because of a ransomware attack.",
+          "Type": "Abnormal backup fail",
+          "isFalsePositiveRequired": false
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "3B33AF0A-40BB-11EE-8FAC-CF86D2106DE3",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:12:19.00Z",
+        "description": "Images were manually expired or modified in an unexpected manner.",
+        "anomalyStatus": "REPORTED_FALSE_POSITIVE",
+        "anomalyType": "IMAGE_EXPIRATION",
+        "anomalyTypeDisplayName": "Image Expiration Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Details": "Images were manually expired or modified in an unexpected manner.",
+          "Number of expired images": "6",
+          "Number of modified expiration time": "0",
+          "User": "ucs220m6-01v15.vxindia.veritas.com\\root",
+          "isFalsePositiveRequired": true
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "3B20131E-40BB-11EE-9A65-A6DB3849AE83",
+      "attributes": {
+        "createdDateTime": "2023-08-22T07:12:19.00Z",
+        "description": "Images were manually expired or modified in an unexpected manner.",
+        "anomalyStatus": "REPORTED_FALSE_POSITIVE",
+        "anomalyType": "IMAGE_EXPIRATION",
+        "anomalyTypeDisplayName": "Image Expiration Anomaly",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "Details": "Images were manually expired or modified in an unexpected manner.",
+          "Number of expired images": "9",
+          "Number of modified expiration time": "0",
+          "User": "ucs220m6-01v15.vxindia.veritas.com\\root",
+          "isFalsePositiveRequired": true
+        }
+      }
+    },
+    {
+      "type": "anomalyExtension",
+      "id": "54E5C19C-40B9-11EE-9C1D-1E0E4F33187A",
+      "attributes": {
+        "createdDateTime": "2023-08-22T06:58:43.00Z",
+        "description": "Anomaly detection extension 'Bitpaymer' for Ransomware is detected for job ID : 34",
+        "anomalyStatus": "REPORTED_FALSE_POSITIVE",
+        "anomalyType": "RANSOMEWARE_EXTENSION_DETECTION",
+        "anomalyTypeDisplayName": "Ransomware Extension Detection",
+        "anomalySeverity": "HIGH",
+        "extendedAttributes": {
+          "BackupId": "ucs220m6-01v15.vxindia.veritas.com_1692687519",
+          "ClientName": "ucs220m6-01v15.vxindia.veritas.com",
+          "Details": "Anomaly detection extension 'Bitpaymer' for Ransomware is detected for job ID : 34",
+          "PolicyName": "pol3",
+          "Ransomware extension": "Bitpaymer",
+          "isFalsePositiveRequired": true
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "pages": 1,
+      "offset": 0,
+      "last": 0,
+      "limit": 100,
+      "count": 60,
+      "page": 0,
+      "first": 0
+    }
+  },
+  "links": {
+    "last": {
+      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
+    },
+    "self": {
+      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
+    },
+    "first": {
+      "href": "https://ucs220m6-01v15.vxindia.veritas.com/netbackup/security/anomaly-extension?page%5Boffset%5D=0&page%5Blimit%5D=100&sort=-createdDateTime"
+    }
+  }
+}
